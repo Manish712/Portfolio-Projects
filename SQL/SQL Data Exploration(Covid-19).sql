@@ -1,3 +1,5 @@
+-- Below queries are written in MySQL.
+
 SELECT * FROM portfolioproject.coviddeaths;
 SELECT * FROM portfolioproject.covidvaccinations;
 SET SQL_SAFE_UPDATES = 0;
