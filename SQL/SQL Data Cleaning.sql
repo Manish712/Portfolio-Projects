@@ -1,3 +1,5 @@
+-- The dataset used in this is Nashville Housing Data which can be found in the datasets folder
+
 SELECT * FROM portfolioproject.nashvillehousingdata;
 
 select a.ParcelID,a.PropertyAddress,b.ParcelID,b.PropertyAddress
